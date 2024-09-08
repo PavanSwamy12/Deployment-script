@@ -7,7 +7,7 @@ chmod 777 k8s-master.sh
 ls -l
 ./k8s-master.sh
 genkins
-hehehehe
+hahahahaha
 ################# IN the nodes ###############################
 sudo su (if not done)
  wget https://raw.githubusercontent.com/akshu20791/Deployment-script/main/k8s-nodes.sh
